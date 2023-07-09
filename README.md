@@ -20,3 +20,5 @@ Uma fonte retificadora ajustável de 3V a 12V que converte corrente alternada de
 | 1    | Resistor 120 Ω  1W  | R$ 0,00       | R$ 0,00     |
 | -    | Valor total:        | -             | R$ 14,15    |
 
+## Imagem do circuito
+
