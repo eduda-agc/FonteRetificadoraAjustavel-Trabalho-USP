@@ -21,4 +21,7 @@ Uma fonte retificadora ajustável de 3V a 12V que converte corrente alternada de
 | -    | Valor total:        | -             | R$ 14,15    |
 
 ## Imagem do circuito
-![alt text](file:///C:/Users/eduda/OneDrive/Imagens/Capturas%20de%20tela/Captura%20de%20tela%202023-07-09%20185928.png "Circuito no simulador falstad")
+![Circuito - Falstad](https://github.com/eduda-agc/FonteRetificadoraAjustavel-Trabalho-USP/assets/137100218/31f3f68e-4767-416d-ac14-bc1269d75910 "Circuito pelo Falstad")
+
+## Funcionalidades
+**Transformador:** 
