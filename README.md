@@ -55,7 +55,9 @@ Uma fonte retificadora ajustável de 3V a 12V que converte corrente alternada de
 ## Vídeo explicativo
 (vídeo)
 
-
+## Finalização
+O projeto foi feito em 2023 no primeiro semestre do curso de BCC, da disciplina de Eletrônica,
+na USP de São Carlos, lecionada pelo professor Eduardo do Valle Simoes. 
 
 
 
