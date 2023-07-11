@@ -49,7 +49,7 @@ Uma fonte retificadora ajustável de 3V a 12V que converte corrente alternada de
 (imagem)
 
 ## Foto do projeto físico
-![Circuito - Falstad](https://github.com/eduda-agc/FonteRetificadoraAjustavel-Trabalho-USP/assets/137100218/31f3f68e-4767-416d-ac14-bc1269d75910 "Circuito pelo Falstad")
+![Circuito montado em protoboard](https://github.com/eduda-agc/FonteRetificadoraAjustavel-Trabalho-USP/issues/4#issue-1799644321 "Circuito montado em protoboard")
 
 ## Vídeo explicativo
 (vídeo)
