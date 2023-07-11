@@ -40,7 +40,9 @@ Uma fonte retificadora ajustável de 3V a 12V que converte corrente alternada de
 + **Carga - Resistor de 120 Ω:** Utilizada para comprovar e testar a fonte.
 
 ## Cálculos do capacitor:
-![Calculo capacitor](https://github.com/eduda-agc/FonteRetificadoraAjustavel-Trabalho-USP/issues/5#issue-1799663398 "Calculos capacitor")
+![Calculo Capacitor][Calculo Capacitor]
+
+[Calculo Capacitor]: https://github.com/eduda-agc/FonteRetificadoraAjustavel-Trabalho-USP/issues/5#issue-1799663398 "Calculo Capacitor"
 
 ## Link simulador no Falstad:
 [Link simulador do circuito ](https://tinyurl.com/25djvyen)
