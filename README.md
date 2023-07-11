@@ -28,17 +28,17 @@ Uma fonte retificadora ajustável de 3V a 12V que converte corrente alternada de
 
 + **Diodos cruzados, a Ponte de Diodos:** Próxima etapa para a mutação da corrente, é aproximá-la à corrente contínua (processo chamado de retificação) e, para isso, é indispensável o uso de uma ponte de diodos. Essa ponte, composta por quatro diodos, desempenha a função de bloquear o fluxo da corrente negativa em direção ao terra, forçando-a a seguir o mesmo caminho que a corrente positiva. Dessa forma, a corrente alternada é convertida em pulsos de corrente positiva constante.
 
-+ **Capacitor:** Paralela à Ponte de Diodos, o capacitor realiza o processo de filtragem.
++ **Capacitor:** Paralela à Ponte de Diodos, o capacitor realiza o processo de filtragem. O componente atua como um reservatório de carga temporária, carregando-se em pulsos de alta corrente e liberando carga durante o período de baixa corrente, suavisando os pulsos,  contribuindo para uma saída mais estável. 
 
-+ **LED:**
++ **LED:** Indica se a fonte está ligada.
 
-+ **Diodo Zener:**
++ **Diodo Zener:** Esta peça "corta" qualquer aumento adicional na tensão quando atinge sua tensão Zener específica (no caso, 13V). Isso garante que a tensão de saída fique próxima ao valor desejado. No circuito em questão, onde a tensão máxima era de 12V, manter a tensão em torno de 13V é adequado. O diodo Zener é responsável por essa função de limitação, assegurando que a tensão não ultrapasse o valor desejado na saída.
 
-+ **Potenciômetro:**
++ **Potenciômetro:** Ele permite o controle do valor da tensão resultante entre 3V e 12V. Com o uso do potenciômetro, é possível ajustar a tensão de saída desejada dentro dessa faixa, proporcionando flexibilidade e controle preciso sobre a tensão fornecida pelo circuito. O potenciômetro atua como um dispositivo de ajuste, permitindo que o usuário defina a tensão desejada de acordo com as necessidades específicas do circuito ou dos dispositivos conectados
 
-+ **Transistor:**
++ **Transistor:** A peça é utilizado para controlar a passagem da corrente de forma ajustável. Ao variar o sinal de entrada aplicado ao transistor, por meio do potenciômetro, é possível controlar a corrente que flui através dele e, consequentemente, a tensão de saída da fonte. 
 
-+ **Carga - Resistor de 120 Ω:**
++ **Carga - Resistor de 120 Ω:** Utilizada para comprovar e testar a fonte.
 
 ##Cálculos do capacitor:
 (Imagem dos cálculos)
