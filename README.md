@@ -40,10 +40,10 @@ Uma fonte retificadora ajustável de 3V a 12V que converte corrente alternada de
 
 + **Carga - Resistor de 120 Ω:** Utilizada para comprovar e testar a fonte.
 
-##Cálculos do capacitor:
+## Cálculos do capacitor:
 (Imagem dos cálculos)
 
-##Link simulador no Falstad:
+## Link simulador no Falstad:
 [Link simulador do circuito ](https://tinyurl.com/25djvyen)
 
 ## Projeto do Esquemático e do PCB no EAGLE
