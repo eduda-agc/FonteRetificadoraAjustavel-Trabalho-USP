@@ -37,7 +37,7 @@ Uma fonte retificadora ajustável de 3V a 12V que converte corrente alternada de
 
 + **Transistor:** A peça é utilizado para controlar a passagem da corrente de forma ajustável. Ao variar o sinal de entrada aplicado ao transistor, por meio do potenciômetro, é possível controlar a corrente que flui através dele e, consequentemente, a tensão de saída da fonte. 
 
-+ **Carga - Resistor de 120 Ω:** Utilizada para comprovar e testar a fonte.
++ **Carga - Resistor de 120 Ω:** Utilizada para comprovar e testar a fonte, isto é, não faz parte do circuito! Foi utilizado apenas para teste!
 
 ## Cálculos do capacitor:
 ![Calculo Capacitor][Calculo Capacitor]
