@@ -20,7 +20,10 @@ Uma fonte retificadora ajustável de 3V a 12V que converte corrente alternada de
 | -    | Valor total:        | -             | R$ 14,15    |
 
 ## Imagem do circuito
-![Circuito - Falstad](https://github.com/eduda-agc/FonteRetificadoraAjustavel-Trabalho-USP/assets/137100218/31f3f68e-4767-416d-ac14-bc1269d75910 "Circuito pelo Falstad")
+![Cirquito fonte](https://github.com/eduda-agc/FonteRetificadoraAjustavel-Trabalho-USP/assets/137100218/c41f07ee-a6f9-435e-9d52-1bffe82398d6)
+
+## Link simulador no Falstad:
+[Link simulador do circuito ](https://tinyurl.com/25djvyen)
 
 ## Funcionalidades
 + **Transformador:** O transformador é responsável pela primeira etapa da mudança de tensão, pois realiza a conversão da corrente alternada de 127V para uma tensão alternada de 12V. Por meio de princípios de indução eletromagnética, o transformador utiliza a relação de voltas nos enrolamentos primário e secundário para alcançar essa transformação. A variação do fluxo magnético no núcleo do transformador induz uma corrente elétrica proporcional no enrolamento secundário, resultando em uma tensão alternada de 12V. Dessa forma, o transformador mantém a corrente alternada, enquanto reduz a tensão de entrada para a saída desejada.
@@ -40,25 +43,20 @@ Uma fonte retificadora ajustável de 3V a 12V que converte corrente alternada de
 + **Carga - Resistor de 120 Ω:** Utilizada para comprovar e testar a fonte, isto é, não faz parte do circuito! Foi utilizado apenas para teste!
 
 ## Cálculos do capacitor:
-![Calculo Capacitor][Calculo Capacitor]
-
-[Calculo Capacitor]: https://github.com/eduda-agc/FonteRetificadoraAjustavel-Trabalho-USP/issues/5#issue-1799663398 "Calculo Capacitor"
-
-## Link simulador no Falstad:
-[Link simulador do circuito ](https://tinyurl.com/25djvyen)
+![Calculo capacitor](https://github.com/eduda-agc/FonteRetificadoraAjustavel-Trabalho-USP/assets/137100218/706d73db-f02e-4e5a-b86e-ce2cc415eff1)
 
 ## Projeto do Esquemático e do PCB no EAGLE
 ### Imagem da impressão da placa
-![Pré_impressão](https://github.com/eduda-agc/FonteRetificadoraAjustavel-Trabalho-USP/issues/5#issuecomment-1631618909 "Circuito Pré_impressão")
+![Circuito da placa](https://github.com/eduda-agc/FonteRetificadoraAjustavel-Trabalho-USP/assets/137100218/361f6cd0-e0f1-41e7-8ebd-da1032864632)
 
 ### Imagem da impressão da placa com os componentes 
-![Pré_impressão_Com_Componentes](https://github.com/eduda-agc/FonteRetificadoraAjustavel-Trabalho-USP/issues/5#issuecomment-1631619148 "Pré_impressão_Com_Componentes")
+![Circuito na placa - Componentes](https://github.com/eduda-agc/FonteRetificadoraAjustavel-Trabalho-USP/assets/137100218/3d46e2ed-e801-4df5-9236-e6f3deb32221)
 
 ### Projeto do Esquemático
-![PCB](https://github.com/eduda-agc/FonteRetificadoraAjustavel-Trabalho-USP/issues/5#issuecomment-1631619254 "PCB")
+![Circuito Esquemático](https://github.com/eduda-agc/FonteRetificadoraAjustavel-Trabalho-USP/assets/137100218/97c5cdfa-10ec-4909-bbdf-4f3534e01178)
 
 ## Foto do projeto físico
-![Circuito montado em protoboard](https://github.com/eduda-agc/FonteRetificadoraAjustavel-Trabalho-USP/issues/4#issue-1799644321 "Circuito montado em protoboard")
+![foto_circuito](https://github.com/eduda-agc/FonteRetificadoraAjustavel-Trabalho-USP/assets/137100218/ac912fa7-59f0-4263-bac3-51cfd4b172f0)
 
 ## Vídeo explicativo
 (vídeo)
