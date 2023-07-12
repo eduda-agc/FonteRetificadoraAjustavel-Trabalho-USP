@@ -48,10 +48,13 @@ Uma fonte retificadora ajustável de 3V a 12V que converte corrente alternada de
 [Link simulador do circuito ](https://tinyurl.com/25djvyen)
 
 ## Projeto do Esquemático e do PCB no EAGLE
+### Imagem da impressão da placa
 ![Pré_impressão](https://github.com/eduda-agc/FonteRetificadoraAjustavel-Trabalho-USP/issues/5#issuecomment-1631618909 "Circuito Pré_impressão")
 
+### Imagem da impressão da placa com os componentes 
 ![Pré_impressão_Com_Componentes](https://github.com/eduda-agc/FonteRetificadoraAjustavel-Trabalho-USP/issues/5#issuecomment-1631619148 "Pré_impressão_Com_Componentes")
 
+### Projeto do Esquemático
 ![PCB](https://github.com/eduda-agc/FonteRetificadoraAjustavel-Trabalho-USP/issues/5#issuecomment-1631619254 "PCB")
 
 ## Foto do projeto físico
